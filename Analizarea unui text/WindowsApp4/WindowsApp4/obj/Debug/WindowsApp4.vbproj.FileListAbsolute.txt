@@ -1,0 +1,29 @@
+C:\Users\GeOCooL\Desktop\Proiecte\PROIECT Bazele programării pe obiecte\ProgrameVB\Analizarea unui text\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+C:\Users\GeOCooL\Desktop\Proiecte\PROIECT Bazele programării pe obiecte\ProgrameVB\Analizarea unui text\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+C:\Users\GeOCooL\Desktop\Proiecte\PROIECT Bazele programării pe obiecte\ProgrameVB\Analizarea unui text\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+C:\Users\GeOCooL\Desktop\Proiecte\PROIECT Bazele programării pe obiecte\ProgrameVB\Analizarea unui text\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+C:\Users\GeOCooL\Desktop\Proiecte\PROIECT Bazele programării pe obiecte\ProgrameVB\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbprojResolveAssemblyReference.cache
+C:\Users\GeOCooL\Desktop\Proiecte\PROIECT Bazele programării pe obiecte\ProgrameVB\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form1.resources
+C:\Users\GeOCooL\Desktop\Proiecte\PROIECT Bazele programării pe obiecte\ProgrameVB\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form2.resources
+C:\Users\GeOCooL\Desktop\Proiecte\PROIECT Bazele programării pe obiecte\ProgrameVB\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+C:\Users\GeOCooL\Desktop\Proiecte\PROIECT Bazele programării pe obiecte\ProgrameVB\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.Cache
+C:\Users\GeOCooL\Desktop\Proiecte\PROIECT Bazele programării pe obiecte\ProgrameVB\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+C:\Users\GeOCooL\Desktop\Proiecte\PROIECT Bazele programării pe obiecte\ProgrameVB\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+C:\Users\GeOCooL\Desktop\Proiecte\PROIECT Bazele programării pe obiecte\ProgrameVB\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
+I:\manele 2014\Proiecte VB\605\PARVU GEORGE-DUMITRU\Parvu George-Dumitru - PROIECT Bazele programării pe obiecte\(4) Analizarea unui text\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+I:\manele 2014\Proiecte VB\605\PARVU GEORGE-DUMITRU\Parvu George-Dumitru - PROIECT Bazele programării pe obiecte\(4) Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+I:\manele 2014\Proiecte VB\605\PARVU GEORGE-DUMITRU\Parvu George-Dumitru - PROIECT Bazele programării pe obiecte\(4) Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+I:\manele 2014\Proiecte VB\605\PARVU GEORGE-DUMITRU\Parvu George-Dumitru - PROIECT Bazele programării pe obiecte\(4) Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Analizarea unui text\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Analizarea unui text\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Analizarea unui text\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Analizarea unui text\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbprojAssemblyReference.cache
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form1.resources
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form2.resources
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.cache
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.CoreCompileInputs.cache
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+C:\Users\MrCoult\Desktop\Teme\fac\sem2\vb\_Visul_Basic\Analizarea unui text\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
